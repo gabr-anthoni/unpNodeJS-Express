@@ -1,4 +1,3 @@
-
 const express = require('express'); // Importa o Express
 const app = express();              // Cria uma instância do servidor
 const port = 3000;                  // Porta onde o servidor vai rodar
